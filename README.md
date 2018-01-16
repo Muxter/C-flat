@@ -1,2 +1,2 @@
-# CMM
-C Minus Minus
+# C-flat
+C-flat is simplified C.
